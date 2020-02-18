@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41466" started-at="2020-02-18T17:54:06Z" finished-at="2020-02-18T17:54:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41466" started-at="2020-02-18T17:54:06Z" finished-at="2020-02-18T17:54:47Z">
+      <class name="Testscript.Loginscript">
+        <test-method status="PASS" signature="openapplication()[pri:0, instance:Testscript.Loginscript@343f4d3d]" name="openapplication" is-config="true" duration-ms="37700" started-at="2020-02-18T17:54:06Z" finished-at="2020-02-18T17:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method status="PASS" signature="testhomepage()[pri:0, instance:Testscript.Loginscript@343f4d3d]" name="testhomepage" duration-ms="3338" started-at="2020-02-18T17:54:43Z" finished-at="2020-02-18T17:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhomepage -->
+        <test-method status="PASS" signature="Takescreenshort()[pri:0, instance:Testscript.Loginscript@343f4d3d]" name="Takescreenshort" is-config="true" duration-ms="405" started-at="2020-02-18T17:54:47Z" finished-at="2020-02-18T17:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Takescreenshort -->
+      </class> <!-- Testscript.Loginscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
